@@ -139,7 +139,7 @@ db.createCollection ( "crayons",
 
 ```
 
-4. We have set our validation rule here so that each box of crayons must
+4. We have set our validation rules here so that each box of crayons must
 contain unique colors.
 
 ```
